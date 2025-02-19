@@ -1,0 +1,67 @@
+@font-face {
+  font-family: Circular;
+  src: url(Circular.otf);
+}
+
+:root
+{
+  background: linear-gradient(#242422, #000000);
+  background-size: 100% 100%;
+}
+
+#title-heading
+{
+  font-family: Circular;
+  font-size: 4rem;
+  text-align: center;
+  color: white;
+}
+
+#hd-divider
+{
+  width: 65%;
+}
+
+#description
+{
+  font-family: Circular;
+  font-size: 1.5rem;
+  width: 45%;
+  margin: auto;
+  text-align: center;
+  color: rgb(223, 223, 223);
+}
+
+#since-we
+{
+  font-family: Circular;
+  font-size: 3rem;
+  width: 65%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  color: #f7577c;
+}
+
+
+#elapsed-label
+{
+  font-family: Circular;
+  font-size: 3rem;
+  width: 65%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  color: #f7577c;
+}
+
+.elapsed
+{
+  font-family: Circular;
+  font-size: 3rem;
+  width: 65%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  color: #f7577c;
+}
